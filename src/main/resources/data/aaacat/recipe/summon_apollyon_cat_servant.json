@@ -1,0 +1,46 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:summon_tamed_no_variant",
+  "activation_item": {
+    "item": "aaacat:pure_cat_ring"
+  },
+  "craftType": "apollyon_cat_ritual",
+  "entity_to_summon": "aaacat:aaacat_servant",
+  "soulCost": 1000,
+  "duration": 30,
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "minecraft:salmon"
+    },
+    {
+      "type": "neoforge:components",
+      "items": "goety:unholy_blood",
+      "components": {
+        "minecraft:custom_data": {
+          "Pure": true
+        }
+      }
+    },
+    {
+      "type": "neoforge:components",
+      "items": "goety:unholy_blood",
+      "components": {
+        "minecraft:custom_data": {
+          "Pure": true
+        }
+      }
+    },
+    {
+      "item": "goety:unholy_fabric"
+    },
+    {
+      "item": "goety:unholy_hat"
+    }
+  ],
+  "result": {
+    "id": "goety:jei_dummy/none"
+  }
+}

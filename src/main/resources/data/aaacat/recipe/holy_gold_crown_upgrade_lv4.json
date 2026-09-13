@@ -1,0 +1,46 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "type": "neoforge:components",
+    "items": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 4
+    }
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:animation_core"
+    },
+    {
+      "item": "goety:hunger_core"
+    },
+    {
+      "item": "goety:wind_core"
+    },
+    {
+      "item": "goety:mystic_core"
+    },
+    {
+      "item": "goety:ominous_orb"
+    },
+    {
+      "item": "goety:heart_of_the_night"
+    },
+    {
+      "item": "goety:philosophers_stone"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 5
+    }
+  }
+}

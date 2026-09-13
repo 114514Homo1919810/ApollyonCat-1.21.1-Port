@@ -1,0 +1,48 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "item": "goety:storm_crown"
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:soul_ruby"
+    },
+    {
+      "item": "aaacat:pure_cat_ring"
+    },
+    {
+      "type": "neoforge:components",
+      "items": "goety:unholy_blood",
+      "components": {
+        "minecraft:custom_data": {
+          "Pure": true
+        }
+      }
+    },
+    {
+      "item": "goety:soul_emerald"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 1
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "type": "neoforge:components",
+    "items": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 5
+    }
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:redstone_monstrosity_head"
+    },
+    {
+      "item": "goety:unholy_hat"
+    },
+    {
+      "item": "goety:nameless_crown"
+    },
+    {
+      "item": "goety:philosophers_mace"
+    },
+    {
+      "item": "goety:corruption_focus"
+    },
+    {
+      "item": "goety:killing_focus"
+    },
+    {
+      "item": "goety:void_flash_focus"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 6
+    }
+  }
+}

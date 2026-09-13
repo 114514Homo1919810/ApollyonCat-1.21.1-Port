@@ -1,0 +1,52 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "type": "neoforge:components",
+    "items": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 3
+    }
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:ectoplasm"
+    },
+    {
+      "item": "goety:void_echo"
+    },
+    {
+      "item": "goety:shadow_essence"
+    },
+    {
+      "type": "neoforge:components",
+      "items": "goety:unholy_blood",
+      "components": {
+        "minecraft:custom_data": {
+          "Pure": true
+        }
+      }
+    },
+    {
+      "item": "goety:howling_soul"
+    },
+    {
+      "item": "goety:raging_matter"
+    },
+    {
+      "item": "goety:soul_ruby"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 4
+    }
+  }
+}

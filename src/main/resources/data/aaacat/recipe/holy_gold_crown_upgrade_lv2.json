@@ -1,0 +1,46 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "type": "neoforge:components",
+    "items": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 2
+    }
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:cursed_metal_block"
+    },
+    {
+      "item": "goety:pale_steel_block"
+    },
+    {
+      "item": "goety:dark_metal_block"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    },
+    {
+      "item": "goety:indented_gold"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "goety:awakened_emerald_block"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 3
+    }
+  }
+}

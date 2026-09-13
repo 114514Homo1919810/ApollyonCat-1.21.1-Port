@@ -1,0 +1,39 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "item": "goety:arca"
+  },
+  "craftType": "forge",
+  "soulCost": 100,
+  "duration": 30,
+  "ingredients": [
+    {
+      "item": "goety:undeath_potion"
+    },
+    {
+      "item": "goety:soul_ruby"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_soul_ark"
+  }
+}

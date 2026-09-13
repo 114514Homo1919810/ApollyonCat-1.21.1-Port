@@ -1,0 +1,46 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:craft",
+  "activation_item": {
+    "type": "neoforge:components",
+    "items": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 1
+    }
+  },
+  "craftType": "forge",
+  "soulCost": 1000,
+  "duration": 10,
+  "ingredients": [
+    {
+      "item": "goety:dark_fabric"
+    },
+    {
+      "item": "goety:magic_fabric"
+    },
+    {
+      "item": "goety:occult_fabric"
+    },
+    {
+      "item": "goety:spirit_fabric"
+    },
+    {
+      "item": "goety:gale_fabric"
+    },
+    {
+      "item": "goety:chill_fabric"
+    },
+    {
+      "item": "goety:unholy_fabric"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "id": "aaacat:holy_gold_crown",
+    "components": {
+      "aaacat:crown_level": 2
+    }
+  }
+}
